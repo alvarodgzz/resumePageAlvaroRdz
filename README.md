@@ -1,25 +1,14 @@
-# vuex-example
+# Álvaro Rdz's Personal Website in Vue
 
-## Project setup
+## General SetUp
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### For running the project
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### For more Vue docs and references
+Go to  [Configuration Reference](https://cli.vuejs.org/config/).
 # resumePageAlvaroRdz
